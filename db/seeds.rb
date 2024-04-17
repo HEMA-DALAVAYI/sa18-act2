@@ -9,3 +9,5 @@
 Product.create!(name: 'TV', price:'700.00', description: 'Samsung 75in Smart TV')
 Product.create!(name: 'Phone', price:'500.00', description: 'Iphone XR')
 Product.create!(name: 'Laptop', price:'1000.00', description: 'Macbook Air')
+Product.create!(name: 'Electric Bike', price:'2500.00', description: 'Rechargable Electric Bike')
+Product.create!(name: 'Projector', price:'1600.00', description: '4K Quality Dolby Projector')
